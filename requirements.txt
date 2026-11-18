@@ -1,0 +1,7 @@
+streamlit
+requests
+python-dotenv
+pyjwt
+extra-streamlit-components
+langchain-google-genai
+langchain-mcp-adapters
